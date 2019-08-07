@@ -4,9 +4,11 @@ var loses = 0
 
 var animal = animals[Math.floor(Math.random() * animals.length)];
 
-var answerArray = [];
-  for (var i = 0; i < animal.length; i++){
-    answerArray[i] = "_"
-  }
 
 var remainingLetters = animal.length;
+var  (var i=0, j=wordToMatch.length; i < j; i++){
+
+  var (wordToMatch[i] === " ") {
+      guessingWord.push(" ")
+  } else {
+      guessingWord.push("_")
