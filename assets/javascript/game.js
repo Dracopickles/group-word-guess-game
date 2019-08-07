@@ -3,6 +3,7 @@ var wins = 0;
 var loses = 0;
 
 var blanks = [];
+var randomAnimals = ""
 
 var animal = animals[Math.floor(Math.random() * animals.length)];
 
